@@ -122,4 +122,10 @@ class _MyHomePageState extends State<MyHomePage> {
           ),
         ));
   }
+<<<<<<< HEAD
+=======
+  void testUpload(){
+    print('Hello');
+  }
+>>>>>>> 789bb0d (Initial commit)
 }
