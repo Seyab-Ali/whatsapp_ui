@@ -123,8 +123,6 @@ class _MyHomePageState extends State<MyHomePage> {
         ));
   }
 
-  void testUpload(){
-    print('Hello');
-  }
+ 
 
 }
